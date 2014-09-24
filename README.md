@@ -7,6 +7,7 @@
 5. cd to new directory
 6. create a file called "components.json" and paste in the JSON listed below the dotted line (**this file is basically a components and page types manifest. The idea is that we'd add components and pagetypes to each new project as we needed them. After speaking with Josh, he thinks it was be easy to derive this manifest from some schema straight out of Tridion so that the components that we build will perfectly mirror whats in tridion**)
 6. from this directory type yo tahzoo-fe-skeleton
+7. once the scaffolding has succesfully built without errors, you should be able to type grunt at the command line from inside that directory and the grunt watch tasks will begin. 
 
 ------------------------------------------------------------
 {
