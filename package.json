@@ -1,0 +1,16 @@
+{
+	"name": "generator-tahzoo-fe-skeleton",
+	"version": "0.1.0",
+	"description": "Tahzoo front-end project scaffolding",
+	"repository": "none",
+	"keywords": [
+		"yeoman-generator"
+	],
+	"dependencies": {
+		"yeoman-generator": "^0.17.6"
+	},
+	"devDependencies": {
+		"grunt": "~0.4.2",
+		"grunt-npm-install": "^0.1.0"
+	}
+}
